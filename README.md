@@ -13,7 +13,7 @@
 * 痛点：网络相关讯息众多复杂，缺少了一份清晰简洁又专业的报告书
 * 增长/益点：找到个城市教育岗位的数据情况、应聘要求
 ### 4.用户画像
-![](https://images.gitee.com/uploads/images/2020/0723/231633_179c98b2_2230708.png)
+![](https://github.com/ZengWenYan/PythonCourseProject/blob/master/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F.png)
 
 ## 解决方案表述
 ### 1.项目如何做分析？
@@ -30,19 +30,19 @@
 ## 数据分析思路及方法
 * 读出“猎聘教育相关岗位详情页.xlsx”表格
 
-![](https://images.gitee.com/uploads/images/2020/0719/064847_233e3dcc_2230708.png)
+![](https://github.com/ZengWenYan/PythonCourseProject/blob/master/%E8%AF%BB%E8%A1%A81.png)
 
 * 清洗数据（工作城市栏位处理：筛选出包含下级区域城市-生成列表准备处理-利用for循环处理数据-数据原表替换-数据更新-进行分进合击）
 
-![](https://images.gitee.com/uploads/images/2020/0719/064913_b5f443e9_2230708.png)
+![](https://github.com/ZengWenYan/PythonCourseProject/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%9B%BE.png)
 
 ## 数据分析流程及成果
 * 在分进合击之后，为了让求职者直观地了解到公司主要在哪些城市招聘，也可以了解到哪些城市缺乏教育的人才，同时也能查看到里边是否有自己的心仪的城市，甚至也能知道在教育这方面竞争的激烈程度制作了地图可视化。
-![](https://images.gitee.com/uploads/images/2020/0719/070256_df44aefb_2230708.png)
+![](https://github.com/ZengWenYan/PythonCourseProject/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE1.png)
 * 在了解大环境后，为了让用户了解到不同因素（学历、经验、语言）对于国内应聘教育岗位的影响，分别制作了饼状图、玫瑰图、水滴图。
-![](https://images.gitee.com/uploads/images/2020/0719/070309_169b70ee_2230708.png)
+![]https://github.com/ZengWenYan/PythonCourseProject/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE2.png)
 * 最后为了让用户对于应聘要求有更细节的了解，就运用主题建模的方式对其做了主题建模可视化。
-![](https://images.gitee.com/uploads/images/2020/0719/070323_2fd2c043_2230708.png)
+![](https://github.com/ZengWenYan/PythonCourseProject/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE3.png)
 
 
 ## 学习/实践心得总结及感谢
