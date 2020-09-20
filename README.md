@@ -1,6 +1,6 @@
 ## 项目名称：中国企业招聘教育岗位数据分析
 谁能分得国内企业教育岗位的一杯羹？通过对中国猎聘网爬取的数据分析国内应聘教育岗位的市场环境及对于应聘能力的研究，为有意向从事教育岗位或者正在从事教育岗位的人员提供参考。
-* [数据交互可视化报告](http://littlelucaszy.pythonanywhere.com/)
+* [项目pythonanywhere部署报告](http://littlelucaszy.pythonanywhere.com/)
 
 ## 问题表述：
 ### 1.项目为啥要做？
