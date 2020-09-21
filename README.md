@@ -31,11 +31,8 @@
 
 ## 数据分析流程及成果
 * 在分进合击之后，为了让求职者直观地了解到公司主要在哪些城市招聘，也可以了解到哪些城市缺乏教育的人才，同时也能查看到里边是否有自己的心仪的城市，甚至也能知道在教育这方面竞争的激烈程度制作了地图可视化。
-![](https://github.com/ZengWenYan/PythonCourseProject/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE1.png)
 * 在了解大环境后，为了让用户了解到不同因素（学历、经验、语言）对于国内应聘教育岗位的影响，分别制作了饼状图、玫瑰图、水滴图。
-![]https://github.com/ZengWenYan/PythonCourseProject/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE2.png)
 * 最后为了让用户对于应聘要求有更细节的了解，就运用主题建模的方式对其做了主题建模可视化。
-![](https://github.com/ZengWenYan/PythonCourseProject/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE3.png)
 
 ## 三个文档描述
 ### Web App动作描述：
@@ -71,5 +68,5 @@
 7. 使用了boostrap前端框架的按钮、网格系统、导航栏下拉框和轮播图。
 8. 在index.html页面使用了多个<form>标签，发送表单数据到python后端。	
 
-## 学习/实践心得总结及感谢
-通过本次python语言课程的学习以及项目的实践，我意识到了对科学思维培养的重要性，并且学习到了有关python语言的一些基本运用。在此由衷感谢许智超老师的教学与指导；感谢中国猎聘网提供的数据；感谢jupyter notebook提供的技术平台支持。
+##学习心得体会
+通过本次python语言课程的学习以及项目的实践，我补充了对科学思维训练的本质，并且学习到了有关python语言的一些基本运用。在此由衷的感谢许智超老师的教学与指导；感谢中国猎聘网提供的数据；感谢jupyter notebook提供的技术平台支持。
