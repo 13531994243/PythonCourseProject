@@ -29,11 +29,8 @@
 
 ## 数据分析思路及方法
 * 读出“猎聘教育相关岗位详情页.xlsx”表格
-
 ![](https://github.com/ZengWenYan/PythonCourseProject/blob/master/%E8%AF%BB%E8%A1%A81.png)
-
 * 清洗数据（工作城市栏位处理：筛选出包含下级区域城市-生成列表准备处理-利用for循环处理数据-数据原表替换-数据更新-进行分进合击）
-
 ![](https://github.com/ZengWenYan/PythonCourseProject/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%9B%BE.png)
 
 ## 数据分析流程及成果
@@ -48,7 +45,6 @@
 ### Web App动作描述：
 1. "/": 响应GET请求，返回 GDP per person.csv 文件内容数据并在界面展示
 2. "/hurun": 响应POST请求，读取 pregrant.csv、literacy.csv、GDP per person.csv、literacy.csv 文件内容并生成 柱状图、折线图、Map图数据返回页面
-							
 ### Python 函数介绍:
 1. getCsvData: 通过传入不同文件名称，并返回pandas数据对象
 2. readCsvData: 通过传入不同文件名称，返回pandas数据对象
@@ -68,7 +64,6 @@
 16. 利用''.join()函数把列表转化为字符串
 17. 使用try、except异常处理
 18. 使用下拉框功能可以实现在同一个url下查看不同的表
-	
 ### HTML文档：
 1. html使用jinjia2 模板语言+html+JavaScript制作。其中模板语言主要使用了循环和判断，用于自动生成表格和翻页按钮。
 2. 页面中使用了 echart 库进行绘制，echart是JavaScript的一个第三方库。除此之外还通过html的<select>标签的onchange属性配合。
@@ -79,7 +74,6 @@
 6. 利用css3实现响应式网页。
 7. 使用了boostrap前端框架的按钮、网格系统、导航栏下拉框和轮播图。
 8. 在index.html页面使用了多个<form>标签，发送表单数据到python后端。	
-***
 
 ## 学习/实践心得总结及感谢
 通过本次python语言课程的学习以及项目的实践，我意识到了对科学思维培养的重要性，并且学习到了有关python语言的一些基本运用。在此由衷感谢许智超老师的教学与指导；感谢中国猎聘网提供的数据；感谢jupyter notebook提供的技术平台支持。
